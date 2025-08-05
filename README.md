@@ -1,1 +1,1 @@
-# odin-recipes
+This project helps me exercise the basic skills I need to create a website from scratch. It incorporates the topics covered in previous lessons.
